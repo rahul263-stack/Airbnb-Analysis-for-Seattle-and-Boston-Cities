@@ -15,7 +15,9 @@ Three bisinuess questions were asked and answered:
 - Two datasets:
    Detailed Listings data for Boston and Seattle which were collected Aug.19th.
    Dataset Link: http://insideairbnb.com/get-the-data.html
-
+data set includes 
+1- calendar
+2- listing 
 
    
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting phenomenom:
